@@ -1,0 +1,90 @@
+.top{
+    display: flex;
+    margin-left: 70%;
+    position: static;
+    font-size:large;
+    
+    
+}
+
+#h{
+    padding-right: 10%;
+}
+#me{
+    padding-right: 10%;
+}
+#p{
+    padding-right: 10%;
+}
+#he{
+    padding-right: 10%;
+}
+.ser{
+    text-align: center;
+    font-family: monospace;
+    font-size: 35px;
+}
+.main{
+    display: flex;
+    padding-top: 2%;
+}
+.order{
+    margin-left: 15%;
+    
+    margin-right: 11%;
+   
+    background-color: rgb(196, 195, 216);
+}
+.dining{
+    margin-left: 1%;
+    margin-right: 10%;
+    border-style: dashed;
+    background-color: rgba(207, 218, 218,125);
+}
+.reservation{
+margin-left: 30%;
+margin-right: 22%;
+padding-top: 1%;
+background-color: rgb(202, 214, 214);
+border-style: dashed;
+margin-top: 2%;
+}
+
+
+
+.order p{
+    font-size: 25px;
+    font-family:sans-serif ;
+    padding-left:5% ;
+}
+.dining p{
+    font-family: sans-serif;
+    font-size: 24px;
+    padding-left:5%;
+    
+}
+.reservation p{
+    font-family: sans-serif;
+    font-size: 25px;
+    padding-left:5% ;
+}
+.def{
+    padding-left: 30%;
+}
+.de{
+    padding-left: 30%
+}
+.d{
+    padding-left: 30%;
+}
+
+body{
+    background-image: url('mutton.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+    height: 100vh;
+    font-weight: 900;
+   
+}
+
