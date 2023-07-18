@@ -1,0 +1,74 @@
+h1{
+    text-align: center;
+    font-family: monospace;
+}
+.text{
+    margin-left: 43%;
+}
+body{
+    background-color: azure;
+}
+.image{
+    display: flex;
+    padding-top: 5%;
+    
+}
+.lap{
+    margin-left: 4%;
+    border-style: solid;
+    border-left: 5%;
+    border-color: azure;
+   
+
+}
+.lap img{
+    height: 300px;
+    margin-left: 12%;
+}
+.lapb{
+    margin-left: 30%;
+    
+}
+.ac{
+    
+    padding-top: 1%;
+    border-style: solid;
+    margin-left: 4%;
+    border-color: azure;
+}
+.ac img{
+    height: 260px;
+}
+.acb{
+    margin-left: 30%;
+    
+}
+.cam img{
+    height: 300px;
+}
+.camb{
+    margin-left: 50%;
+}
+.cam{
+    margin-left: 5%;
+    border-style: solid;
+    border-color: azure;
+    
+}
+.top{
+    display: flex;
+    margin-left: 70%;
+    position: static;
+    font-size:large;
+    
+    
+}
+#h{
+    padding-right: 10%;
+}
+#p{
+    padding-right: 10%;
+}
+#he{
+    padding-right: 10%S;
+}
