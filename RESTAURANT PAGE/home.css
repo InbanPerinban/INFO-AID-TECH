@@ -1,0 +1,64 @@
+.top{
+    display: flex;
+    margin-left: 60%;
+    position: static;
+    font-size:large;
+    padding-top: 1px;
+   color: aliceblue;
+    
+    
+}
+h1{
+    margin-left: 40%;
+    font-size: 35px;
+    color: #215bd7;
+   
+}
+#h{
+    padding-right: 10%;
+    color: #215bd7;
+    text-decoration: none;
+}
+#p{
+    padding-right: 10%;
+    color: #215bd7;
+    text-decoration: none;
+}
+#se{
+    padding-right: 10%;
+    color: #215bd7;
+    text-decoration: none;
+
+}
+
+#des{
+    margin-right: 17%;
+    margin-left: 7%;
+    font-family: sans-serif;
+    font-size: 25px;
+    padding-top: 4%;
+    
+}
+#img{
+    margin-right: 10%;
+    padding-top: 4%    ;
+}
+.real{
+    height:400px;
+    width:450px;
+}
+
+.header{
+    background-image: url('chapathi.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+    height: 90vh;
+    font-weight: 900;
+   
+}
+.p{
+    font-size:29px;
+    font-family: sans-serif;
+    font-weight: 550;
+}

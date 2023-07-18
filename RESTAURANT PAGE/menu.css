@@ -1,0 +1,167 @@
+h1{
+    text-align: center;
+    font-family: monospace;
+    font-size: 35px;
+}
+.text{
+    margin-left: 43%;
+    
+}
+
+body{
+    background-color: wheat;
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+    height: 100vh;
+    font-weight: 900;
+}
+.image{
+    display: flex;
+    padding-top: 5%;
+    
+}
+.lap{
+    margin-left: 4%;
+   
+
+}
+.lap p{
+    padding-left: 22%;
+}
+.lap img{
+    height: 250px;
+    width: 300px;
+    margin-left: 22%;
+}
+.lapb{
+    margin-left: 40%;
+    
+}
+.ac{
+    
+    padding-top: 3.1%;
+    padding-left: 2%;
+    
+    
+    
+}
+.ac img{
+    height: 260px;
+    
+}
+.acb{
+    margin-left: 30%;
+    
+}
+.cam img{
+    height: 260px;
+    width: 300px;
+}
+.camb{
+    margin-left: 40%;
+}
+.cam{
+    margin-left: 2%;
+    
+   
+    padding-top: 3%;
+    
+}
+.cha{
+    padding-top: 3.1%;
+    margin-left: 2%;
+}
+.cha img{
+    height: 265px;
+    width: 300px;
+}
+.top{
+    display: flex;
+    margin-left: 70%;
+    position: static;
+    font-size:large;
+    
+    
+}
+#h{
+    padding-right: 10%;
+}
+#me{
+    padding-right: 10%;
+}
+#p{
+    padding-right: 10%;
+}
+#he{
+    padding-right: 10%;
+}
+.mn{
+    
+   padding-right: 20%;
+   
+}
+.curry{
+    display: flex;
+    padding-top: 2%;
+    
+}
+.CUR{
+    margin-right: 72%;
+}
+.chick{
+        margin-left: 9%;
+
+}
+.chick p{
+    margin-left: 4%;
+}
+.chick img{
+    height: 250px;
+    width: 290px;
+    padding-left: 4%;
+}
+
+.mutton{
+    padding-top: 3%;
+    margin-right: 2%;
+    border-right: 10%;
+   
+
+}
+.mutton img{
+    height: 250px;
+    width: 250px;
+    
+}
+
+.panner{
+   padding-top: 3%;
+   margin-right: 5%;
+    
+}
+.panner img{
+    height: 250px;
+    width: 270px;
+}
+
+.fish{
+    margin-right: 3%;
+    padding-top: 3%;
+    margin-left: 3%;
+}
+
+.fish img{
+    height: 250px;
+    width: 300px;
+}
+.fst{
+   margin-right: 60%;
+}
+.btn{
+    padding-left: 50%;
+    padding-top: 4%;
+    height: 100px;
+}
+
